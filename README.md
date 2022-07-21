@@ -1,10 +1,12 @@
 # Space_Invader_Game
 ## ⭐ Classic 2D Space Invader Game made using Python PyGame module.
+<hr>
 
-### ⚡ Tools Used
+## ⚡ About
 
 ### 🚀 Language
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<hr>     
  
  ### 🎮 Game Guide
  (1) Just open the source file in any IDE like VSCode, Pycharm, etc.
@@ -23,5 +25,8 @@
  (4) This is a never ending game, if you kill a monster another monster gets spawn.
  
  (5) Click on the exit key to terminate the program.
+ <hr>
+ 
+ ### 📌 Screenshot
  
  <img src="Poster.png" alt="Result" >  
