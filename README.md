@@ -23,3 +23,5 @@
  (4) This is a never ending game, if you kill a monster another monster gets spawn.
  
  (5) Click on the exit key to terminate the program.
+ 
+ <img src="Poster.png" alt="Result" >  
